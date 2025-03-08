@@ -1,5 +1,8 @@
 # JS-TS-Playground
+
  Simple template project to create and run JS and TS files, ask for user input (in the terminal window) and use the input as a variable in your code
+
+ ![alt text](./public/JS-TS-vanilla-playground.png "project overview")
 
   This is intended for learning purposes, so that when getting started with Javascript and Typescript, folks are not forced to take on the *huge* task of learning, building, and impllementing a web UI as well.
 
