@@ -21,7 +21,14 @@ To use this project, follow these steps:
 - Run `node -v` to check if NodeJS is installed correctly.
 - run `npm install` to install all dependencies (`tsx` and `prompt-sync`).
 
-Now you should be ready to start coding! Open the `src/template.ts` file to start coding. Happy coding!
+Now you should be ready to start coding! You can read the instructions in the `tempalte.ts` file or follow these here:
+
+1. Open a terminal window in your IDE
+2. copy the template.ts to the src folder and rename it to 'myfile.ts'
+3. Edit your file as you like
+4. Run 'npx tsx ./src/myFile.ts' replace "myFile.ts" with the name of your file
+
+And now: Happy coding!
 
 ## Background Information
 
