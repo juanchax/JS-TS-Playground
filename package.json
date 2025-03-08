@@ -1,0 +1,19 @@
+{
+    "name": "js-ts-vanilla-playground",
+    "version": "1.0.0",
+    "description": "This is a playground for JavaScript, TypeScript and vanilla JS with minimal setup.",
+    "main": "index.tsx",
+    "scripts": {
+        "start": "tsx index.tsx"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "prompt-sync": "^4.2.0",
+        "tsx": "^4.19.3"
+    },
+    "devDependencies": {
+        "@types/node": "^22.13.10"
+    }
+}
