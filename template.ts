@@ -1,4 +1,4 @@
-import * as promptSync from 'prompt-sync'
+import * as promptSync from 'prompt-sync';
 
 // create a variable to call as your terminal prompt maker
 const prompt = require('prompt-sync')();
