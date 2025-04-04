@@ -39,7 +39,7 @@ If you don't know how to write, run, debug, build your code--the brain learns by
 You learned the multiplication table waaay before you used a calculator. Be mindful of your goal. Embrace the hardship.
 
 
-### tldr;
+### tl;dr
 
 Don't ask mommy bird to chew your food for you, just learn a fast easy way to run your code, and you'll be set for life.
 
